@@ -6,3 +6,7 @@ A University Portal Demonstration using Java
 2) Dashboard.java : this is the third interface of the file which comes after the login page, this is for administrators only and not for faculty or students.
 
 3) Conn.java : this is a connection class, JDBC connection object, used in project for Java-DataBase Connectiity(very important for connection to database).
+
+4) Add Student :
+
+5) Add Teacher : 
