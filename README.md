@@ -7,6 +7,6 @@ A University Portal Demonstration using Java
 
 3) Conn.java : this is a connection class, JDBC connection object, used in project for Java-DataBase Connectiity(very important for connection to database).
 
-4) Add Student :
+4) Add Student : this is a java class through which an administrator can add a student and all the necessary details.
 
 5) Add Teacher : 
