@@ -10,3 +10,5 @@ A University Portal Demonstration using Java
 4) Add Student : this is a java class through which an administrator can add a student and all the necessary details.
 
 5) Add Teacher : this is a java class through which an administrator can add a taacher and all the necessary details.
+
+6) Enter Marks : 
