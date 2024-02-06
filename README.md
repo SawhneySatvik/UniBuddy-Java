@@ -11,4 +11,4 @@ A University Portal Demonstration using Java
 
 5) Add Teacher : this is a java class through which an administrator can add a taacher and all the necessary details.
 
-6) Enter Marks : 
+6) Enter Marks : this java class is made for admins and teachers specifically for teachers only to enter marks of respective students.
