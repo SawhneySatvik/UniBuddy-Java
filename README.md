@@ -16,4 +16,6 @@ A University Portal Demonstration using Java
 
 7) View Student : this class extracts the data stored in database about the student and displays the information.
 
-8) Map -1 
+8) View Teacher : this class extracts the data stored in database about the teacher and displays the information.
+
+9) Map -1 
