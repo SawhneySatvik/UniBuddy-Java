@@ -18,6 +18,6 @@ A University Portal Demonstration using Java
 
 8) View Teacher : this class extracts the data stored in database about the teacher and displays the information.
 
-9) Map-1 : Container Class
+9) Map-1 : Container Class for map of main campus.
 
 10) Map-2 : Container Class
