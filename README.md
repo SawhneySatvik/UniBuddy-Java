@@ -20,4 +20,4 @@ A University Portal Demonstration using Java
 
 9) Map-1 : Container Class for map of main campus.
 
-10) Map-2 : Container Class
+10) Map-2 : Container Class for map of annexure campus.
