@@ -14,10 +14,13 @@ A University Portal Demonstration using Java
 
 6) Enter Marks : this java class is made for admins and teachers specifically for teachers only to enter marks of respective students.
 
-7) View Student : this class extracts the data stored in database about the student and displays the information.
+7) Examination Results : 
 
-8) View Teacher : this class extracts the data stored in database about the teacher and displays the information.
+8) View Student : this class extracts the data stored in database about the student and displays the information.
 
-9) Map-1 : Container Class for map of main campus.
+9) View Teacher : this class extracts the data stored in database about the teacher and displays the information.
 
-10) Map-2 : Container Class for map of annexure campus.
+10) Map-1 : Container Class for map of main campus.
+
+11) Map-2 : Container Class for map of annexure campus.
+    
